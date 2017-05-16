@@ -198,6 +198,7 @@ header > a > h2{
   align-items: center;
   text-align: center;
   margin-top: 45vh;
+  animation: bounceIn .75s;
 }
 
 .overlay > a > img{
@@ -207,4 +208,5 @@ header > a > h2{
   margin: auto;
   display: block;
   margin: auto;
+  animation: fadeInUp .75s;
 }
